@@ -1,5 +1,7 @@
 ## Description
-Edited code examples from the book 'Deep Learning for Computer Vision - Starter Bundle' by Adrian Rosebrock.
+Edited code from the book 'Deep Learning for Computer Vision - Starter Bundle' by Adrian Rosebrock.
+Fixed issues caused by OpenCV 4.0+
+Utilizing Tensorflow-gpu
 
 ## Table of Contents
 1. Introduction
