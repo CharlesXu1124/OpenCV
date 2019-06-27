@@ -22,6 +22,6 @@ Edited code examples from the book 'Deep Learning for Computer Vision - Starter 
 18. Checkpointing Models
 19. Visualizing Network Architectures
 20. Out-of-the-box CNNs for Classification
-21. Case Study: Breaking Captchas with a CNN
+21. Case Study: Breaking Captchas with a CNN (Modified download code utilizing Selenium Chrome driver)
 22. Case Study: Smile Detection
 23. Your Next Steps
